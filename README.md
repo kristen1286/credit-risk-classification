@@ -1,5 +1,6 @@
 # Credit Risk Classification
-module 20 repo challenge
+
+See the report.md for final analysis module 20 repo challenge
 
 <p align="center">
 <img src="Images/credit_pic.jpg" alt="crypto graphic" width="500" height="300"  >
@@ -26,7 +27,7 @@ In this Challenge, I use various techniques to train and evaluate a model based 
 3. Write a Credit Risk Analysis Report
 
 ## Part 2: Results/Report <a name="result"></a>
-
+See the report.md for final analysis
 1. Confusion Matrix
    
 <p align="center">
