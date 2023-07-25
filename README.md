@@ -30,7 +30,7 @@ In this Challenge, I use various techniques to train and evaluate a model based 
 1. Confusion Matrix
    
 <p align="center">
-<img src="Images/confusion_mat.png" alt="confusion_mat" width="600" height="300"  >
+<img src="Images/confusion_mat.png" alt="confusion_mat" width="300" height="150"  >
 </p>
 
 2.  Classification Report
