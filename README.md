@@ -27,7 +27,7 @@ In this Challenge, I use various techniques to train and evaluate a model based 
 3. Write a Credit Risk Analysis Report
 
 ## Part 2: Results/Report <a name="result"></a>
-See the report.md for final analysis
+See the report.md for final analysis and conclusions
 1. Confusion Matrix
    
 <p align="center">
