@@ -10,7 +10,7 @@ module 20 repo challenge
 
 - [Background](#background)
 - [Part 1: Challenge Layout](#layout)
-- [Part 2: Results](#result)
+- [Part 2: Results/Report](#result)
 - [Part 3: Conclusion](#conclusion)
 
 ---
@@ -25,7 +25,7 @@ In this Challenge, I use various techniques to train and evaluate a model based 
 2. Create a Logistic Regression Model with the Original Data
 3. Write a Credit Risk Analysis Report
 
-## Part 2: Results <a name="result"></a>
+## Part 2: Results/Report <a name="result"></a>
 
 1. Confusion Matrix
    
