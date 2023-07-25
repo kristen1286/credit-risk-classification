@@ -42,5 +42,5 @@ In this Challenge, I use various techniques to train and evaluate a model based 
 ---
 ## Part 3: Conclusion <a name="conclusion"></a>   
 How well does the logistic regression model predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
- The logistical regression model predicts the heathy low risk loan with 100% percision, indicating that all positive predictions for class 0 are correct. The high risk loan is is predicted with less percision at 87%, still reasonably precise in predicting class 1 instances. The accuracy of the model is 99%. The macro and weighted average metrics indicate that the model performs well across both classes, taking into account class imbalance.
+ The logistical regression model predicts the heathy low risk loan with 100% percision, indicating that all positive predictions for class 0 are correct. The high risk loan is predicted with less percision at 87%, still reasonably precise in predicting class 1 instances. The accuracy of the model is 99%. The macro and weighted average metrics indicate that the model performs well across both classes, taking into account class imbalance.
 
